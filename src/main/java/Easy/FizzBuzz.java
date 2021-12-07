@@ -1,3 +1,5 @@
+package Easy;
+
 public class FizzBuzz {
     public String[] solve(int n) {
         String[] strings = new String[n];

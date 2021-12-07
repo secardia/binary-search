@@ -1,3 +1,5 @@
+package Easy;
+
 public class MakingListValuesEqual {
     public int solve(int[] nums) {
         int min = Integer.MAX_VALUE;

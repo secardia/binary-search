@@ -1,3 +1,5 @@
+package Easy;
+
 public class JustAverage {
     public boolean solve(int[] nums, int k) {
         int sum = sum(nums);

@@ -1,3 +1,5 @@
+package Easy;
+
 public class StrictlyIncreasingOrStrictlyDecreasing {
     public boolean solve(int[] nums) {
         boolean strictlyIncreasing = true;

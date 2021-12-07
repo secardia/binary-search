@@ -1,3 +1,5 @@
+package Hard;
+
 public class ZippedString {
     public boolean solve(String a, String b, String c) {
         if (a.length() + b.length() != c.length()) {

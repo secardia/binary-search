@@ -1,3 +1,5 @@
+package Easy;
+
 public class PairAndTriples {
     public boolean solve(String s) {
         if ((s.length() - 2) % 3 != 0) {

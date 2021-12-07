@@ -1,3 +1,5 @@
+package Medium;
+
 public class DecodeMessage {
     public int solve(String message) {
         if (message.length() == 0) {
