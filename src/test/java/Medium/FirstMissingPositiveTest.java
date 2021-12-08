@@ -25,5 +25,4 @@ class FirstMissingPositiveTest {
         int[] nums = new int[]{2};
         assertThat(firstMissingPositive.solve(nums)).isEqualTo(1);
     }
-
 }
